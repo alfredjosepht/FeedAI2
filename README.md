@@ -1,4 +1,4 @@
-# AI-FEED Connector
+# AI-FEED Connecto
 
 A Next.js application that connects food donors with recipients to reduce waste and hunger using AI-powered matching.
 
